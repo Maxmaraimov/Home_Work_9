@@ -11,13 +11,13 @@ int Prompt(string message)
 }
 int CalculateAckermannFunctions(int n, int m)
 {
-  if (n == 0)
-    return m + 1;
-  else
-    if ((n != 0) && (m == 0))
-      return CalculateAckermannFunctions(n - 1, 1);
+    if (n == 0)
+        return m + 1;
     else
-      return CalculateAckermannFunctions(n - 1, A(n, m - 1));
+      if ((n != 0) && (m == 0))
+        return CalculateAckermannFunctions(n - 1, 1);
+    else
+        return CalculateAckermannFunctions(n - 1, A(n, m - 1));
 }
 int numberM = Prompt("Введете натуральное число : M = ");
 int numberN = Prompt("Введете натуральное число: N = ");
