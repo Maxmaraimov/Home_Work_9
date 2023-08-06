@@ -1,0 +1,15 @@
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/Home_work_9_3.csproj.AssemblyReference.cache
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/Home_work_9_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/Home_work_9_3.AssemblyInfoInputs.cache
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/Home_work_9_3.AssemblyInfo.cs
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/Home_work_9_3.csproj.CoreCompileInputs.cache
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/bin/Debug/net7.0/Home_work_9_3
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/bin/Debug/net7.0/Home_work_9_3.deps.json
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/bin/Debug/net7.0/Home_work_9_3.runtimeconfig.json
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/bin/Debug/net7.0/Home_work_9_3.dll
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/bin/Debug/net7.0/Home_work_9_3.pdb
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/Home_work_9_3.dll
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/refint/Home_work_9_3.dll
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/Home_work_9_3.pdb
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/Home_work_9_3.genruntimeconfig.cache
+/Users/jasur/Desktop/gb/m1l12 C# 9 rekursiya/Home Work  9/Home_work_9_3/obj/Debug/net7.0/ref/Home_work_9_3.dll
